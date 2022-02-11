@@ -1,2 +1,1 @@
-Yeah maincra
-Esta es la rama2
+Este es el archivo que esta en la rama2.
